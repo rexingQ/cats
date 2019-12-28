@@ -1,0 +1,591 @@
+# These are supported funding model platforms
+
+github: [kailuowang]
+custom: https://donorbox.org/typelevel-sustainability-program-2019?default_interval=m
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:trello.status.atlassian.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com"/>
+  <link rel="self" type="application/atom+xml" href="https://trello.status.atlassian.com/history.atom"/>
+  <title>Trello Status - Incident History</title>
+  <updated>2019-12-28T08:09:12Z</updated>
+  <author>
+    <name>Trello</name>
+  </author>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3332328</id>
+    <published>2019-12-18T02:00:38Z</published>
+    <updated>2019-12-18T02:00:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/mbjl019w1rh7"/>
+    <title>Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing brief maintenance on Trello beginning at 8PM Eastern Time (UTC-5) today.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3276762</id>
+    <published>2019-12-02T17:08:15Z</published>
+    <updated>2019-12-02T17:08:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/74t90fwdh4h6"/>
+    <title>Trello Help section is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;17:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Some users may find that the Help section of Trello (https://help.trello.com/) is currently slow or unavailable.&lt;br /&gt;&lt;br /&gt;We are investigating this issue and working to bring the Help section back online as soon as possible. Trello itself is not affected by this.&lt;br /&gt;&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3153351</id>
+    <published>2019-10-28T20:34:00Z</published>
+    <updated>2019-10-28T20:34:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/9mk4wns6fx7k"/>
+    <title>Trello Increase Client Errors</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our engineering team has put a fix in place to mitigate the issue and users should see recovery. &lt;br /&gt;&lt;br /&gt;We're continuing to monitor the issue and will update if the situation changes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Some may find that Trello is experiencing intermittent issues.&lt;br /&gt;&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up as quickly as possible. We've currently identified a possible cause and are attempting to workaround the issue. Users affected by this incident may notice that Trello is slow or completely unavailable in the web app. Mobile users may experience synchronization delays.&lt;br /&gt;&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;18:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello engineering team is currently investigating escalating client errors that may be affecting some customers.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3132231</id>
+    <published>2019-10-23T04:46:09Z</published>
+    <updated>2019-10-23T04:46:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/8l8gg60q6hxn"/>
+    <title>Attachments, avatars, and board backgrounds may not be loading</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our team is investigating a problem with our file hosting service and this may be affecting the loading and performance of attached files, avatars, and board backgrounds. The team is investigating.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3132854</id>
+    <published>2019-10-23T04:02:07Z</published>
+    <updated>2019-10-23T04:02:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/h6xddspjbdrj"/>
+    <title>Intermittent DNS Resolution Errors</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 23:45 UTC to 02:19 UTC, some customers experienced intermittent failure connecting to Atlassian Cloud. The root cause was an increased DNS error rate from our infrastructure supplier. The supplier fixed the upstream issue and we have verified that the services have recovered. The conditions that caused the issue have been addressed and we are actively working on a permanent fix. The issue has been resolved and the service is operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;01:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have identified the root cause of the intermittent failure connecting to Atlassian Cloud for some cloud customers and have mitigated the problem. We are now monitoring closely.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;01:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have identified the root cause of the intermittent failure connecting to Atlassian Cloud for some cloud customers and have mitigated the problem. We are now monitoring closely.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;01:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to work on resolving intermittent failure connecting to Atlassian Cloud for some cloud customers. We will provide hourly updates.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We continue to work on resolving intermittent failure connecting to Atlassian Cloud for some cloud customers. We will provide hourly updates.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are aware that some customers may be experiencing intermittent failure connecting to Atlassian Cloud. We are working with our cloud hosting provider (AWS) to resolve the DNS related errors. We will provide hourly updates.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3127082</id>
+    <published>2019-10-21T17:40:06Z</published>
+    <updated>2019-10-21T17:40:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/gp6djkl8hkxb"/>
+    <title>Trello search is down or slow for some users</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;17:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello search has been restored.  Thank you for your patience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Trello search is now recovering.  We will continue to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue and are working towards a resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our fix doesn't seem to have solved the issue for most users, we are continuing to work hard to resolve this issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have discovered the issue and are rolling out a fix momentarily.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're investigating reports of an issue with Trello's search functionality that seems to be causing problems for some users.&lt;br /&gt;&lt;br /&gt;Updates will be posted here once we have more information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3039956</id>
+    <published>2019-09-27T01:03:13Z</published>
+    <updated>2019-09-27T01:03:13Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/kz9jps4g56k8"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;01:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing some scheduled maintenance on Trello systems beginning at 8pm Eastern Time for approximately 1 hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3036221</id>
+    <published>2019-09-25T20:27:59Z</published>
+    <updated>2019-09-25T20:28:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/85x0nvtzd4w2"/>
+    <title>Trello board creation is failing when using image search results — Investigating</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our team identified a resolution to the issue.  Thanks for your patience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello board creation is failing when using image search results.&lt;br /&gt;&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up to speed as quickly as possible.&lt;br /&gt; &lt;br /&gt;We'll keep you posted with further updates on this page.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3027418</id>
+    <published>2019-09-23T20:45:15Z</published>
+    <updated>2019-09-23T20:45:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/f6j1r7j59203"/>
+    <title>Trello search is down or slow for some users</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have implemented a fix for the issues we were seeing and are now watching closely as the system recovers. Trello search is once again operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an issue with Trello's search functionality that seems to be causing problems for users. Updates will be posted here once we have more information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2904245</id>
+    <published>2019-08-23T04:30:06Z</published>
+    <updated>2019-08-23T04:30:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/y2l0kkz6m5xm"/>
+    <title>Trello boards are not loading for some users — Investigating</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello boards with large numbers of checklists were not loading for some users.  Our engineers have now resolved the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello boards are not loading for some users.
+&lt;br /&gt;
+&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up to speed as quickly as possible.
+&lt;br /&gt; 
+&lt;br /&gt;We'll keep you posted with further updates on this page.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2857882</id>
+    <published>2019-08-13T19:01:22Z</published>
+    <updated>2019-08-13T19:01:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/05t633y7241x"/>
+    <title>Trello unresponsive</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;19:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello was briefly unresponsive. Engineers have restored service and the site is functioning properly again.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2623528</id>
+    <published>2019-06-28T20:00:57Z</published>
+    <updated>2019-06-28T20:00:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/9ck419y043h7"/>
+    <title>Email-to-Board not creating cards</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our team is confident the problem has been resolved, and was able to restore all email messages sent during the downtime. If you're still running into any trouble, please don't hesitate to reach out via https://trello.com/contact!&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our team's rolled back the change that we believe was the cause and have a fix in place. We're monitoring to make sure that the problem is solved.&lt;br /&gt;&lt;br /&gt;We're looking into restoring the emails that were sent during the downtime.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our team has discovered a problem with Trello's Email-to-Board feature not creating cards, and are working on a resolution. We'll update with more information as soon as possible!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2579702</id>
+    <published>2019-06-21T01:07:21Z</published>
+    <updated>2019-06-21T01:07:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/j53bhbjl5v5d"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;01:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing some scheduled maintenance on Trello systems beginning at 8pm Eastern Time for approximately 1 hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2572775</id>
+    <published>2019-06-19T13:24:56Z</published>
+    <updated>2019-06-19T13:24:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/7yvyykk8x8s2"/>
+    <title>Atlassian Cloud email notifications issue</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 11:58 UTC to 13:15 UTC, we experienced outgoing emails for Trello. The issue has been resolved and the service is operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue with outgoing email that is impacting some Atlassian Cloud customers. We will provide more details within the next hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2544867</id>
+    <published>2019-06-14T01:15:28Z</published>
+    <updated>2019-06-14T11:39:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/w6c4x782fhzz"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;01:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance has been completed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;00:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;21:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing some scheduled maintenance on Trello systems beginning at 8pm Eastern Time for approximately 1 hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2488818</id>
+    <published>2019-06-03T18:16:31Z</published>
+    <updated>2019-06-03T18:16:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/xw21dx1f2c8j"/>
+    <title>Team exports slow or stuck for some customers</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;18:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;18:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Some teams are reporting exports getting stuck in a queued state forever. The engineering team has identified the issue and rolled out a fix. Remaining stuck exports should be finished shortly.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2316476</id>
+    <published>2019-04-09T01:04:21Z</published>
+    <updated>2019-04-09T01:04:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/rz6cj8twbzt2"/>
+    <title>Some Trello users might not receive email notifications instantly</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;01:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - After further monitoring, this issue has been resolved by our engineers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We've implemented a fix and are continuing to monitor.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been discovered and a fix is in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're receiving internal reports that email notifications are sometimes not being received instantly, which may be affecting some Trello users.&lt;br /&gt;&lt;br /&gt;Our engineers are currently investigating this issue and we will update here with more information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2256490</id>
+    <published>2019-03-13T03:04:52Z</published>
+    <updated>2019-03-13T16:01:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/xxxcvpxd4mzy"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;03:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be conducting some scheduled maintenance on Wednesday at 02:00 UTC (Tuesday 22:00 Eastern). The work should take no more than 1 hour to complete.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2239782</id>
+    <published>2019-03-04T22:04:28Z</published>
+    <updated>2019-03-04T22:11:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/jrzc0xjjqyh2"/>
+    <title>Trello users being unintentionally removed from boards</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;22:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The source of the issue has been resolved. We are continuing to investigate which users may have been impacted and how we can help them regain any lost access.&lt;br /&gt;&lt;br /&gt;If you are concerned that you or a team member may have been affected by this, please reach out to us at support@trello.com or https://trello.com/contact, and we can assist further.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;18:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have identified the cause and reverted the issue, preventing further impact. We are continuing to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We've received reports that users had been removed from boards unintentionally. Our engineers are currently investigating the cause, and we'll update here with more information.&lt;br /&gt;&lt;br /&gt;You may see a red box in the top right corner of your window notifying you that you've been disconnected from the server. Please refresh your page if you see this.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2091277</id>
+    <published>2018-12-12T04:16:51Z</published>
+    <updated>2018-12-12T04:16:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/q9vvxlgvcrdn"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The work was completed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Everything went as planned with the maintenance. The work is now completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be conducting some scheduled maintenance on Wednesday at 03:00 UTC (Tuesday 22:00 Eastern). The work should take no more than 1 hour to complete.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2059185</id>
+    <published>2018-11-24T00:48:09Z</published>
+    <updated>2019-01-23T17:49:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/8jb39knqbmq1"/>
+    <title>Trello is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;00:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello’s engineering team has resolved the problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;00:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Trello’s engineering team has identified and resolved the problem. If you’re still running into any trouble, please don’t hesitate to reach out via https://trello.com/contact!&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;00:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello is currently slow or unavailable.
+&lt;br /&gt;
+&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up as quickly as possible.
+&lt;br /&gt;
+&lt;br /&gt;Users affected by this incident may notice that Trello is slow or completely unavailable in both the web and mobile apps.
+&lt;br /&gt;
+&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1971032</id>
+    <published>2018-10-17T01:14:04Z</published>
+    <updated>2018-10-17T01:14:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/243bqv50wsxr"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;01:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Heads up! We're going to be doing some maintenance on Trello at 8PM tomorrow (Eastern Time) for 1 hour. Trello may become slower or unresponsive during this time.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1928848</id>
+    <published>2018-09-26T03:40:51Z</published>
+    <updated>2018-09-26T03:40:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/59kf1pg208tj"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance successfully completed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;23:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Heads up! We’ll be conducting some brief maintenance on our infrastructure. During the maintenance, Trello may become slower or unresponsive for a short time. We anticipate to complete the maintenance within the hour we have allotted.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1892606</id>
+    <published>2018-09-05T03:16:04Z</published>
+    <updated>2019-01-23T17:49:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/119gq40bk3rf"/>
+    <title>Trello is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;03:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello was unavailable for a brief period of time, and quickly came back online.&lt;br /&gt;&lt;br /&gt;Our engineering team is actively monitoring to make sure Trello stays up! If you have any trouble, please don't hesitate to reach out to https://trello.com/contact&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1754663</id>
+    <published>2018-06-04T18:49:01Z</published>
+    <updated>2019-01-23T17:49:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/rrwjdtgfk8jg"/>
+    <title>Trello is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our engineers have fully resolved the issue and all trello.com services have been fully restored. If you're still having any trouble, please don't hesitate to reach out via https://trello.com/contact&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our engineering team is confident they've located the problem, and are continuing to monitor trello.com's performance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello is currently slow or unavailable.
+&lt;br /&gt;
+&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up as quickly as possible.
+&lt;br /&gt;
+&lt;br /&gt;Users affected by this incident may notice that Trello is slow or completely unavailable in both the web and mobile apps.
+&lt;br /&gt;
+&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;</content>
+  </entry>
+</feed><?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:trello.status.atlassian.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com"/>
+  <link rel="self" type="application/atom+xml" href="https://trello.status.atlassian.com/history.atom"/>
+  <title>Trello Status - Incident History</title>
+  <updated>2019-12-28T08:09:12Z</updated>
+  <author>
+    <name>Trello</name>
+  </author>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3332328</id>
+    <published>2019-12-18T02:00:38Z</published>
+    <updated>2019-12-18T02:00:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/mbjl019w1rh7"/>
+    <title>Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing brief maintenance on Trello beginning at 8PM Eastern Time (UTC-5) today.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3276762</id>
+    <published>2019-12-02T17:08:15Z</published>
+    <updated>2019-12-02T17:08:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/74t90fwdh4h6"/>
+    <title>Trello Help section is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;17:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Some users may find that the Help section of Trello (https://help.trello.com/) is currently slow or unavailable.&lt;br /&gt;&lt;br /&gt;We are investigating this issue and working to bring the Help section back online as soon as possible. Trello itself is not affected by this.&lt;br /&gt;&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3153351</id>
+    <published>2019-10-28T20:34:00Z</published>
+    <updated>2019-10-28T20:34:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/9mk4wns6fx7k"/>
+    <title>Trello Increase Client Errors</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:52&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our engineering team has put a fix in place to mitigate the issue and users should see recovery. &lt;br /&gt;&lt;br /&gt;We're continuing to monitor the issue and will update if the situation changes.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Some may find that Trello is experiencing intermittent issues.&lt;br /&gt;&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up as quickly as possible. We've currently identified a possible cause and are attempting to workaround the issue. Users affected by this incident may notice that Trello is slow or completely unavailable in the web app. Mobile users may experience synchronization delays.&lt;br /&gt;&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;18:34&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello engineering team is currently investigating escalating client errors that may be affecting some customers.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3132231</id>
+    <published>2019-10-23T04:46:09Z</published>
+    <updated>2019-10-23T04:46:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/8l8gg60q6hxn"/>
+    <title>Attachments, avatars, and board backgrounds may not be loading</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;19:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our team is investigating a problem with our file hosting service and this may be affecting the loading and performance of attached files, avatars, and board backgrounds. The team is investigating.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3132854</id>
+    <published>2019-10-23T04:02:07Z</published>
+    <updated>2019-10-23T04:02:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/h6xddspjbdrj"/>
+    <title>Intermittent DNS Resolution Errors</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 23:45 UTC to 02:19 UTC, some customers experienced intermittent failure connecting to Atlassian Cloud. The root cause was an increased DNS error rate from our infrastructure supplier. The supplier fixed the upstream issue and we have verified that the services have recovered. The conditions that caused the issue have been addressed and we are actively working on a permanent fix. The issue has been resolved and the service is operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;01:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have identified the root cause of the intermittent failure connecting to Atlassian Cloud for some cloud customers and have mitigated the problem. We are now monitoring closely.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;01:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have identified the root cause of the intermittent failure connecting to Atlassian Cloud for some cloud customers and have mitigated the problem. We are now monitoring closely.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;01:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We continue to work on resolving intermittent failure connecting to Atlassian Cloud for some cloud customers. We will provide hourly updates.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We continue to work on resolving intermittent failure connecting to Atlassian Cloud for some cloud customers. We will provide hourly updates.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are aware that some customers may be experiencing intermittent failure connecting to Atlassian Cloud. We are working with our cloud hosting provider (AWS) to resolve the DNS related errors. We will provide hourly updates.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3127082</id>
+    <published>2019-10-21T17:40:06Z</published>
+    <updated>2019-10-21T17:40:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/gp6djkl8hkxb"/>
+    <title>Trello search is down or slow for some users</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;17:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello search has been restored.  Thank you for your patience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Trello search is now recovering.  We will continue to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:06&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue and are working towards a resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our fix doesn't seem to have solved the issue for most users, we are continuing to work hard to resolve this issue&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have discovered the issue and are rolling out a fix momentarily.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're investigating reports of an issue with Trello's search functionality that seems to be causing problems for some users.&lt;br /&gt;&lt;br /&gt;Updates will be posted here once we have more information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3039956</id>
+    <published>2019-09-27T01:03:13Z</published>
+    <updated>2019-09-27T01:03:13Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/kz9jps4g56k8"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;01:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing some scheduled maintenance on Trello systems beginning at 8pm Eastern Time for approximately 1 hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3036221</id>
+    <published>2019-09-25T20:27:59Z</published>
+    <updated>2019-09-25T20:28:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/85x0nvtzd4w2"/>
+    <title>Trello board creation is failing when using image search results — Investigating</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:27&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our team identified a resolution to the issue.  Thanks for your patience.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello board creation is failing when using image search results.&lt;br /&gt;&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up to speed as quickly as possible.&lt;br /&gt; &lt;br /&gt;We'll keep you posted with further updates on this page.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/3027418</id>
+    <published>2019-09-23T20:45:15Z</published>
+    <updated>2019-09-23T20:45:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/f6j1r7j59203"/>
+    <title>Trello search is down or slow for some users</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:45&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have implemented a fix for the issues we were seeing and are now watching closely as the system recovers. Trello search is once again operational.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an issue with Trello's search functionality that seems to be causing problems for users. Updates will be posted here once we have more information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2904245</id>
+    <published>2019-08-23T04:30:06Z</published>
+    <updated>2019-08-23T04:30:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/y2l0kkz6m5xm"/>
+    <title>Trello boards are not loading for some users — Investigating</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello boards with large numbers of checklists were not loading for some users.  Our engineers have now resolved the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;04:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello boards are not loading for some users.
+&lt;br /&gt;
+&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up to speed as quickly as possible.
+&lt;br /&gt; 
+&lt;br /&gt;We'll keep you posted with further updates on this page.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2857882</id>
+    <published>2019-08-13T19:01:22Z</published>
+    <updated>2019-08-13T19:01:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/05t633y7241x"/>
+    <title>Trello unresponsive</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;19:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello was briefly unresponsive. Engineers have restored service and the site is functioning properly again.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2623528</id>
+    <published>2019-06-28T20:00:57Z</published>
+    <updated>2019-06-28T20:00:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/9ck419y043h7"/>
+    <title>Email-to-Board not creating cards</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our team is confident the problem has been resolved, and was able to restore all email messages sent during the downtime. If you're still running into any trouble, please don't hesitate to reach out via https://trello.com/contact!&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our team's rolled back the change that we believe was the cause and have a fix in place. We're monitoring to make sure that the problem is solved.&lt;br /&gt;&lt;br /&gt;We're looking into restoring the emails that were sent during the downtime.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our team has discovered a problem with Trello's Email-to-Board feature not creating cards, and are working on a resolution. We'll update with more information as soon as possible!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2579702</id>
+    <published>2019-06-21T01:07:21Z</published>
+    <updated>2019-06-21T01:07:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/j53bhbjl5v5d"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;01:07&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing some scheduled maintenance on Trello systems beginning at 8pm Eastern Time for approximately 1 hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2572775</id>
+    <published>2019-06-19T13:24:56Z</published>
+    <updated>2019-06-19T13:24:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/7yvyykk8x8s2"/>
+    <title>Atlassian Cloud email notifications issue</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Between 11:58 UTC to 13:15 UTC, we experienced outgoing emails for Trello. The issue has been resolved and the service is operating normally.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue with outgoing email that is impacting some Atlassian Cloud customers. We will provide more details within the next hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2544867</id>
+    <published>2019-06-14T01:15:28Z</published>
+    <updated>2019-06-14T11:39:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/w6c4x782fhzz"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;01:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance has been completed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;00:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;21:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing some scheduled maintenance on Trello systems beginning at 8pm Eastern Time for approximately 1 hour.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2488818</id>
+    <published>2019-06-03T18:16:31Z</published>
+    <updated>2019-06-03T18:16:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/xw21dx1f2c8j"/>
+    <title>Team exports slow or stuck for some customers</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;18:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;18:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Some teams are reporting exports getting stuck in a queued state forever. The engineering team has identified the issue and rolled out a fix. Remaining stuck exports should be finished shortly.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2316476</id>
+    <published>2019-04-09T01:04:21Z</published>
+    <updated>2019-04-09T01:04:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/rz6cj8twbzt2"/>
+    <title>Some Trello users might not receive email notifications instantly</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;01:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - After further monitoring, this issue has been resolved by our engineers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We've implemented a fix and are continuing to monitor.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:53&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been discovered and a fix is in progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;00:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're receiving internal reports that email notifications are sometimes not being received instantly, which may be affecting some Trello users.&lt;br /&gt;&lt;br /&gt;Our engineers are currently investigating this issue and we will update here with more information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2256490</id>
+    <published>2019-03-13T03:04:52Z</published>
+    <updated>2019-03-13T16:01:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/xxxcvpxd4mzy"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;03:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The maintenance is completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be conducting some scheduled maintenance on Wednesday at 02:00 UTC (Tuesday 22:00 Eastern). The work should take no more than 1 hour to complete.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2239782</id>
+    <published>2019-03-04T22:04:28Z</published>
+    <updated>2019-03-04T22:11:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/jrzc0xjjqyh2"/>
+    <title>Trello users being unintentionally removed from boards</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;22:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The source of the issue has been resolved. We are continuing to investigate which users may have been impacted and how we can help them regain any lost access.&lt;br /&gt;&lt;br /&gt;If you are concerned that you or a team member may have been affected by this, please reach out to us at support@trello.com or https://trello.com/contact, and we can assist further.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;18:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have identified the cause and reverted the issue, preventing further impact. We are continuing to monitor the situation.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;17:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We've received reports that users had been removed from boards unintentionally. Our engineers are currently investigating the cause, and we'll update here with more information.&lt;br /&gt;&lt;br /&gt;You may see a red box in the top right corner of your window notifying you that you've been disconnected from the server. Please refresh your page if you see this.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2091277</id>
+    <published>2018-12-12T04:16:51Z</published>
+    <updated>2018-12-12T04:16:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/q9vvxlgvcrdn"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The work was completed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;04:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Everything went as planned with the maintenance. The work is now completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;21:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - We will be conducting some scheduled maintenance on Wednesday at 03:00 UTC (Tuesday 22:00 Eastern). The work should take no more than 1 hour to complete.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/2059185</id>
+    <published>2018-11-24T00:48:09Z</published>
+    <updated>2019-01-23T17:49:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/8jb39knqbmq1"/>
+    <title>Trello is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;00:48&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello’s engineering team has resolved the problem.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;00:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Trello’s engineering team has identified and resolved the problem. If you’re still running into any trouble, please don’t hesitate to reach out via https://trello.com/contact!&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;00:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello is currently slow or unavailable.
+&lt;br /&gt;
+&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up as quickly as possible.
+&lt;br /&gt;
+&lt;br /&gt;Users affected by this incident may notice that Trello is slow or completely unavailable in both the web and mobile apps.
+&lt;br /&gt;
+&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1971032</id>
+    <published>2018-10-17T01:14:04Z</published>
+    <updated>2018-10-17T01:14:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/243bqv50wsxr"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;01:14&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Heads up! We're going to be doing some maintenance on Trello at 8PM tomorrow (Eastern Time) for 1 hour. Trello may become slower or unresponsive during this time.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1928848</id>
+    <published>2018-09-26T03:40:51Z</published>
+    <updated>2018-09-26T03:40:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/59kf1pg208tj"/>
+    <title>Scheduled Maintenance</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:40&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance successfully completed&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;23:17&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Heads up! We’ll be conducting some brief maintenance on our infrastructure. During the maintenance, Trello may become slower or unresponsive for a short time. We anticipate to complete the maintenance within the hour we have allotted.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1892606</id>
+    <published>2018-09-05T03:16:04Z</published>
+    <updated>2019-01-23T17:49:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/119gq40bk3rf"/>
+    <title>Trello is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;03:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Trello was unavailable for a brief period of time, and quickly came back online.&lt;br /&gt;&lt;br /&gt;Our engineering team is actively monitoring to make sure Trello stays up! If you have any trouble, please don't hesitate to reach out to https://trello.com/contact&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:trello.status.atlassian.com,2005:Incident/1754663</id>
+    <published>2018-06-04T18:49:01Z</published>
+    <updated>2019-01-23T17:49:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://trello.status.atlassian.com/incidents/rrwjdtgfk8jg"/>
+    <title>Trello is slow or unavailable</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Our engineers have fully resolved the issue and all trello.com services have been fully restored. If you're still having any trouble, please don't hesitate to reach out via https://trello.com/contact&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our engineering team is confident they've located the problem, and are continuing to monitor trello.com's performance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Trello is currently slow or unavailable.
+&lt;br /&gt;
+&lt;br /&gt;Our engineering team is actively investigating this incident and working to bring Trello back up as quickly as possible.
+&lt;br /&gt;
+&lt;br /&gt;Users affected by this incident may notice that Trello is slow or completely unavailable in both the web and mobile apps.
+&lt;br /&gt;
+&lt;br /&gt;We will update this page as we have additional information.&lt;/p&gt;</content>
+  </entry>
+</feed>{
+  "env": {
+    "global": [
+      {
+        "secure": "MVEU8bwlIuI87CA87HzyT1K4u6XQfqWBdtlVqgqo6nUc/A9f/MvxJTkKJtlrK+QSQc9JT9p2m1VETiapTFrReEQbBcagcp1yLaMS5l13zZ0T51t2eh/QU9akHncmLuoktNBFTjNxZTxLtvdx/mMSKUhJJyVP0qtfJ4ovAtbZirQ="
+      },
+      {
+        "secure": "Xf4ZZCg6STqx77P8cAVpBz2tBaGP4kpF/UTbAR2i+DmDXhmZ2q4LfhNxmNClN0qVDit6m+zqFzUSu4Ke7Yjd8z0vfGv1DFUywj8VPV00t9MsFSYM2QWlObJ3KErBx0FDq+RaHhUlEjpZYBsFjl7miytM9xt8oPuuwb0lVQ5PUco="
+      },
+      "TRAVIS_NODE_VERSION=\"4\"",
+      {
+        "secure": "oNDXSDgI9mLmNticC6Qh1tk30bX2hen2lLs1GZVrQ0NG2Eh2geoFlgYH/6rfd6iMmblxJQ+oyGHvGp0OCszaqz0XFCD5aitUDekAefbM4xDKmy996o0E5SLD6cX+PIRlx8QSjZTrhT4IVbSga+tpP14gAgQ/KuYpg7Pb181MgRk="
+      },
+      {
+        "secure": "Gh/JXHKKRXp2c0AiaiG3nUDKPkkLZyIzPoz/zQgaJc+GTb4juDw9Yhh33M2UfoPF32P5+8tWg9bW5EmwiUTS8vSTFLumI8+DwEx92q2NhSBapV20P6lEVKPKNq7abmq8NS4/VF+xKPMdK9Q0hdWft+nDHy+aABmtAviTywJL5Ag="
+      },
+      {
+        "secure": "L++m4IxOmxUP+ELjSU/ZlaF/as9N/sShk+LdP2MmMYamhx6rNhcjTm5T143Hyv8maYkwb+nkXyWimX/04atXS9dtj9HdwZ4HCcG7TJYXdDVipS8XpcKVy1L2+A4fO9+3URF+8oN3KHYQPjNJd5hNuP8rPQbTsndWmTzrjecoFnI="
+      }
+    ]
+  },
+  "git": {
+    "depth": 9999
+  },
+  "jdk": [
+    "openjdk8"
+  ],
+  "jobs": {
+    "include": [
+      {
+        "env": "TEST=\"JS tests\"",
+        "scala": "2.12.10",
+        "stage": "test",
+        "script": "sbt ++$TRAVIS_SCALA_VERSION! validateJS && sbt ++$TRAVIS_SCALA_VERSION! validateKernelJS && sbt ++$TRAVIS_SCALA_VERSION! validateFreeJS",
+        "install": "rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION"
+      },
+      {
+        "env": "TEST=\"JS tests\"",
+        "scala": "2.13.1",
+        "stage": "test",
+        "script": "sbt ++$TRAVIS_SCALA_VERSION! validateJS && sbt ++$TRAVIS_SCALA_VERSION! validateKernelJS && sbt ++$TRAVIS_SCALA_VERSION! validateFreeJS",
+        "install": "rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION"
+      },
+      {
+        "env": "TEST=\"JVM tests\"",
+        "scala": "2.12.10",
+        "stage": "test",
+        "script": "sbt ++$TRAVIS_SCALA_VERSION! coverage buildJVM bench/test coverageReport",
+        "install": "pip install --user codecov",
+        "after_success": "codecov -F scala_version_212"
+      },
+      {
+        "env": "TEST=\"JVM tests\"",
+        "scala": "2.13.1",
+        "stage": "test",
+        "script": "sbt ++$TRAVIS_SCALA_VERSION! coverage buildJVM bench/test coverageReport",
+        "install": "pip install --user codecov",
+        "after_success": "codecov -F scala_version_213"
+      },
+      {
+        "env": "TEST=\"docs\"",
+        "stage": "test",
+        "script": "sbt docs/makeMicrosite",
+        "install": "gem install jekyll -v 2.5"
+      },
+      {
+        "env": "TEST=\"scalafix\"",
+        "stage": "test",
+        "script": "cd scalafix && sbt tests/test"
+      },
+      {
+        "env": "TEST=\"binary compatibility\"",
+        "scala": "2.12.10",
+        "stage": "test",
+        "script": "sbt ++$TRAVIS_SCALA_VERSION! validateBC"
+      },
+      {
+        "env": "TEST=\"binary compatibility\"",
+        "scala": "2.13.1",
+        "stage": "test",
+        "script": "sbt ++$TRAVIS_SCALA_VERSION! validateBC"
+      },
+      {
+        "env": "TEST=\"linting\"",
+        "stage": "styling",
+        "script": "sbt +fmtCheck"
+      },
+      {
+        "stage": "publish snapshot",
+        "script": "if [[ $(cat version.sbt) =~ \"-SNAPSHOT\" ]]; then\n  sbt +publish gitSnapshots +publish\nelse\n  echo Not publishing a snapshot because the version does not end with -SNAPSHOT for version $TRAVIS_SCALA_VERSION\nfi\n"
+      }
+    ]
+  },
+  "sudo": "required",
+  "cache": {
+    "directories": [
+      ".hydra",
+      "$HOME/.m2",
+      "$HOME/.ivy2/cache",
+      "$HOME/.sbt",
+      "$HOME/.coursier",
+      "$HOME/.cache"
+    ]
+  },
+  "group": "edge",
+  "stages": [
+    {
+      "name": "styling"
+    },
+    {
+      "name": "test"
+    },
+    {
+      "if": "(branch = master AND type = push)",
+      "name": "publish snapshot"
+    }
+  ],
+  "language": "scala",
+  "notifications": {
+    "webhooks": {
+      "urls": [
+        "${GITTER_WEBHOOK_URL}"
+      ],
+      "on_start": false,
+      "on_failure": "always",
+      "on_success": "change"
+    }
+  },
+  "before_install": [
+    "export PATH=${PATH}:./vendor/bundle",
+    "if [[ ! -z \"$HydraLicense\" ]]; then mkdir -p  /home/travis/.triplequote/metrics/config && echo \"$HydraLicense\" > \"/home/travis/.triplequote/hydra.license\" && cp hydra-metrics-service.conf /home/travis/.triplequote/metrics/config/metrics-service.conf; fi"
+  ],
+  "scala_version_212": "2.12.10",
+  "scala_version_213": "2.13.1"
+}
